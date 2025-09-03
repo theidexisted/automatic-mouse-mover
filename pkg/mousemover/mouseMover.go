@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/go-vgo/robotgo"
-	"github.com/prashantgupta24/activity-tracker/pkg/activity"
-	"github.com/prashantgupta24/activity-tracker/pkg/tracker"
+	"github.com/theidexisted/activity-tracker/pkg/activity"
+	"github.com/theidexisted/activity-tracker/pkg/tracker"
 )
 
 var instance *MouseMover
