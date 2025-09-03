@@ -9,7 +9,7 @@ require (
 	github.com/getlantern/systray v1.2.2
 	github.com/go-vgo/robotgo v0.110.8
 	github.com/kirsle/configdir v0.0.0-20170128060238-e45d2f54772f
-	github.com/prashantgupta24/activity-tracker v1.0.0
+	github.com/theidexisted/activity-tracker v1.0.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.10.0
 )
@@ -57,9 +57,7 @@ require (
 	go.uber.org/zap v1.25.0 // indirect
 	golang.org/x/exp v0.0.0-20250506013437-ce4c2cf36ca6 // indirect
 	golang.org/x/image v0.27.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.35.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/prashantgupta24/activity-tracker => ../activity-tracker
 
